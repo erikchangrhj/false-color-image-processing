@@ -1,0 +1,29 @@
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\bin\Debug\FalseColorization.exe.config
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\bin\Debug\FalseColorization.exe
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\bin\Debug\FalseColorization.pdb
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization.csprojResolveAssemblyReference.cache
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\MainWindow.g.cs
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\App.g.cs
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization_MarkupCompile.cache
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization_MarkupCompile.lref
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\MainWindow.baml
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization.g.resources
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization.Properties.Resources.resources
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization.csproj.GenerateResource.Cache
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization.exe
+F:\Jobs\TestingJob\C#\FalseColorization\FalseColorization\obj\Debug\FalseColorization.pdb
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization.csprojResolveAssemblyReference.cache
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\MainWindow.g.cs
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\App.g.cs
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization_MarkupCompile.cache
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization_MarkupCompile.lref
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\bin\Debug\FalseColorization.exe.config
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\bin\Debug\FalseColorization.exe
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\bin\Debug\FalseColorization.pdb
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\bin\Debug\FalseColorImageConverter.dll
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\MainWindow.baml
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization.g.resources
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization.Properties.Resources.resources
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization.csproj.GenerateResource.Cache
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization.exe
+F:\Jobs\WorkingJob\Job_2016.11.07-2016.XX.XX_$250(False colorization of grayscale X-ray images)\Program\FalseColorization\FalseColorization\obj\Debug\FalseColorization.pdb

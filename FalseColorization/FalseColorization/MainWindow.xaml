@@ -1,0 +1,28 @@
+﻿<Window x:Class="FalseColorization.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FalseColorization"
+        mc:Ignorable="d"
+        Title="False Colorization" Height="800" Width="1200" SizeChanged="Window_SizeChanged" MinWidth="800" MinHeight="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="openImageButton" Content="Open" HorizontalAlignment="Left" Height="30" Margin="12,10,0,0" VerticalAlignment="Top" Width="375" Click="openImageButton_Click"/>
+        <Border x:Name="convertedImageBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="749" Margin="392,10,0,0" VerticalAlignment="Top" Width="790">
+            <Image x:Name="convertedImage"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="250" Margin="12,242,0,0" VerticalAlignment="Top" Width="375">
+            <Image x:Name="originalImage"/>
+        </Border>
+        <Slider x:Name="degreeShiftSlider" HorizontalAlignment="Left" Margin="100,80,0,0" VerticalAlignment="Top" Width="245" Height="25" Maximum="359" SmallChange="1" LargeChange="10" ValueChanged="degreeShiftSlider_ValueChanged" Minimum="-359"/>
+        <Label x:Name="degreeShiftLabel" Content="" HorizontalAlignment="Left" Height="25" Margin="350,80,0,0" VerticalAlignment="Top" Width="37" FontSize="8" Background="#FFC8C8C8"/>
+        <Button x:Name="redrawButton" Content="Redraw" HorizontalAlignment="Left" Height="30" Margin="12,45,0,0" VerticalAlignment="Top" Width="375" Click="redrawButton_Click" IsEnabled="False"/>
+        <Image x:Name="grayDiagramImage" HorizontalAlignment="Left" Height="30" Margin="12,177,0,0" VerticalAlignment="Top" Width="375" Stretch="Fill"/>
+        <Image x:Name="colorDiagramImage" HorizontalAlignment="Left" Height="30" Margin="12,207,0,0" VerticalAlignment="Top" Width="375" Stretch="Fill"/>
+        <Slider x:Name="contrastSlider" HorizontalAlignment="Left" Margin="100,120,0,0" VerticalAlignment="Top" Width="245" Height="25" Maximum="100" SmallChange="1" LargeChange="10" ValueChanged="contrastSlider_ValueChanged" Value="100"/>
+        <Label x:Name="contrastLabel" HorizontalAlignment="Left" Height="25" Margin="350,120,0,0" VerticalAlignment="Top" Width="37" FontSize="8" Background="#FFC8C8C8" Content="100"/>
+        <Label Content="Shift Degree" HorizontalAlignment="Left" Height="25" Margin="12,80,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="Contrast" HorizontalAlignment="Left" Height="25" Margin="12,120,0,0" VerticalAlignment="Top" Width="83"/>
+
+    </Grid>
+</Window>
